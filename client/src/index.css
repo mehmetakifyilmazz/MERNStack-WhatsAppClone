@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.chatDetail{
+    background-image: url('https://cdn.wallpapersafari.com/68/67/U1SFl7.jpg');
+}
